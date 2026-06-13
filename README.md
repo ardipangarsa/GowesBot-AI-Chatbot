@@ -33,3 +33,7 @@ GowesBot Pro adalah aplikasi chatbot pintar berbasis kecerdasan buatan (*Artific
    * Jalankan file aplikasi utama `gowes_app.py` menggunakan perintah eksekusi Ngrok jembatan port.
    * Buka tautan HTTPS publik yang dihasilkan oleh Ngrok untuk mengakses antarmuka chat.
 
+⚠️ **PENTING SAAT APLIKASI SUDAH TERBUKA:**
+Setelah halaman web Streamlit terbuka, Anda **WAJIB memasukkan Google AI API Key** terlebih dahulu pada kolom password yang tersedia di panel **Sidebar sebelah kiri** sebelum mulai mengetik pesan. Jika API Key belum diinput, chatbot tidak akan bisa memproses obrolan Anda.
+
+
