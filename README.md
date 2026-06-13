@@ -30,5 +30,6 @@ GowesBot Pro adalah aplikasi chatbot pintar berbasis kecerdasan buatan (*Artific
    * Tambahkan secret baru dengan nama `NGROK_TOKEN` dan masukkan token Ngrok Anda.
 3. **Eksekusi Cell:**
    * Jalankan instalasi dependensi: `pip install -r requirements.txt`.
-   * Jalankan file aplikasi utama menggunakan perintah eksekusi Ngrok jembatan port.
+   * Jalankan file aplikasi utama `gowes_app.py` menggunakan perintah eksekusi Ngrok jembatan port.
    * Buka tautan HTTPS publik yang dihasilkan oleh Ngrok untuk mengakses antarmuka chat.
+
